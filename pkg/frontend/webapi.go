@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/edwardzsmith/glauth/pkg/assets"
-	"github.com/edwardzsmith/glauth/pkg/config"
+	"github.com/osirium/glauth/pkg/assets"
+	"github.com/osirium/glauth/pkg/config"
 	logging "github.com/op/go-logging"
 )
 

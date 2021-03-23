@@ -11,9 +11,9 @@ import (
 	"strings"
 
 	"github.com/GeertJohan/yubigo"
-	"github.com/edwardzsmith/glauth/pkg/config"
-	"github.com/edwardzsmith/glauth/pkg/stats"
-	"github.com/edwardzsmith/ldap"
+	"github.com/osirium/glauth/pkg/config"
+	"github.com/osirium/glauth/pkg/stats"
+	"github.com/osirium/ldap"
 	"github.com/op/go-logging"
 	"github.com/pquerna/otp/totp"
 )

@@ -1,6 +1,6 @@
 package handler
 
-import "github.com/edwardzsmith/ldap"
+import "github.com/osirium/ldap"
 
 // interface for backend handler
 type Handler interface {
